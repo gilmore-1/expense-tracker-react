@@ -14,3 +14,5 @@ A simple expense tracker built with React. This application allows users to keep
 - **React**: A JavaScript library for building user interfaces.
 - **Context API**: Used for state management across the application.
 - **TypeScript**: Provides type safety to the React components.
+
+[Live Demo][https://legendary-macaron-5dd765.netlify.app/](https://whimsical-elf-4b60d9.netlify.app/)
